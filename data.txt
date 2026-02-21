@@ -8,7 +8,7 @@ posts = [
     },
     {
         "id": 2,
-        "author": "Rohan",
+        "author": "Neo",
         "title": "Asyncio Basics",
         "content": "Asyncio helps run tasks concurrently using async and await.",
         "date_posted": "2026-02-19"
