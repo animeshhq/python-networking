@@ -1,0 +1,25 @@
+# data.py
+
+posts = [
+    {
+        "id": 1,
+        "author": "Animesh",
+        "title": "Getting Started with Python",
+        "content": "Today I learned about lists, dictionaries, and loops.",
+        "date_posted": "2026-02-20"
+    },
+    {
+        "id": 2,
+        "author": "Neo",
+        "title": "Asyncio Basics",
+        "content": "Asyncio helps run tasks concurrently using async and await.",
+        "date_posted": "2026-02-19"
+    },
+    {
+        "id": 3,
+        "author": "Ayush",
+        "title": "PostgreSQL Setup",
+        "content": "Installed PostgreSQL and connected it with a client app.",
+        "date_posted": "2026-02-18"
+    }
+]
